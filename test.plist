@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://v.baozkj.com/public/uploads/qmsj.ipa</string>
+					<string>https://github.com/woquxiang/qmsj/blob/master/0f30b5ccc12a7ffed0ca97ff1e759a36_enterprise_resigned.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>www.cw.pub</string>
+				<string>www.cw.pub131</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
